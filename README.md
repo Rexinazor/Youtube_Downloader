@@ -31,7 +31,7 @@
 
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
-git clone https://github.com/m4mallu/inline-tube-mate
+git clone https://github.com/Rexinazor/Youtube_Downloader
 cd inline-tube-mate
 virtualenv -p python3 venv
 . ./venv/bin/activate
