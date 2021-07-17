@@ -6,34 +6,32 @@ Send any image to setup a permanent custom thumbnail for the videos.
 
 To delete the previously saved custom thumbnail select in options. 
 
-If 𝐧𝐨 custom thumbnail are available bot will set the default 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐟𝐨𝐫 𝐭𝐡𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.
+If no custom thumbnail are available bot will set the default YouTube thumbnail for the videos.
 
-𝐒𝐞𝐚𝐫𝐜𝐡 𝐢𝐧𝐥𝐢𝐧𝐞 𝐟𝐚𝐜𝐢𝐥𝐢𝐭𝐲, 𝐨𝐫 𝐩𝐚𝐬𝐭𝐞 𝐭𝐡𝐞 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐥𝐢𝐧𝐤 𝐭𝐨 𝐬𝐭𝐚𝐫𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠.
+Search inline facility, or paste the YouTube link to start downloading.
 
-𝐉𝐨𝐢𝐧 <a href='https://t.me/RMProjects'>𝐔𝐩𝐝𝐚𝐭𝐞𝐬</a> | 𝐑𝐞𝐩𝐨 <a href='https://github.com/m4mallu/inline-tube-mate'>𝐋𝐈𝐍𝐊</a>   
+JOIN <a href='https://t.me/BioHazard_Bots'>Updates</a> | Repo <a href='https://github.com/Rexinazor/Youtube_Downloader'>LINK</a>   
     """
-    WELCOME_MSG = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
+    WELCOME_MSG = "Hello... {}\nI can download YouTube Videos.\nSearch Inline- select and download."
+    OPTIONS_TXT = "I can download YouTube Videos.\nSearch Inline- select and download."
+    RESULTS_TXT = "👀 Results:"
+    NO_RESULTS = "❌ No Results:"
     DESCRIPTION = "Duration: {} || {}"
-    NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
-    DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
+    NOT_AUTH_TXT = "❌ ❌ You are not authorized ❌ ❌"
+    DEFAULT_TITLE = "Youtube_Downloader Repository"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu"
-    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐌𝟒𝐌𝐚𝐥𝐥𝐮 | 𝐆𝐢𝐭𝐇𝐮𝐛"
-    DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
+    DEFAULT_LINK = "https://github.com/Rexinaxor"
+    DEFAULT_DESCRIPTION = "LINK: Rexinazor | Github"
+    DEV_TITLE = "Developer information"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
-    DEV_LINK = "https://t.me/space4renjith"
-    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝐑𝐞𝐧𝐣𝐢𝐭𝐡 𝐌𝐚𝐧𝐠𝐚𝐥 | 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦"
-    SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
+    SHARE_BUTTON_TEXT = "HI..  👋\nCheckout : @{username}\nFor search and download YouTube videos"
     SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
                   "downloads until you clear it !</code> "
-    WAIT_MESSAGE = "𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭.. 𝟒 𝐚 𝐬𝐞𝐜𝐨𝐧𝐝 !"
+    WAIT_MESSAGE = "Please wait.. for a second !"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap </code><b> DEL THUMB </b><code> if you wish to " \
                     "clear it !</code> "
-    NO_THUMB = "𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐧𝐨 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐨𝐜𝐚𝐥 𝐝𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲, 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐥𝐨𝐚𝐝 𝐚𝐧 𝐢𝐦𝐚𝐠𝐞 𝐭𝐨 𝐬𝐚𝐯𝐞 𝐢𝐭 !"
-    DEL_THUMB_CNF = "𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐜𝐥𝐞𝐚𝐫𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ✅"
+    NO_THUMB = "THere are no thumbnail in your Local Directory, Please upload an image and save it !"
+    DEL_THUMB_CNF = "Thumbnail cleared successfully ✅"
     LINK_ERROR = "𝐒𝐨𝐦𝐞 𝐞𝐫𝐫𝐨𝐫𝐬 𝐨𝐜𝐜𝐮𝐫𝐫𝐞𝐝 𝐰𝐡𝐢𝐥𝐞 𝐭𝐡𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬 !\n𝐏𝐥𝐞𝐚𝐬𝐞 𝐭𝐫𝐲 𝐚𝐠𝐚𝐢𝐧 𝐥𝐚𝐭𝐞𝐫.."
     #
     #
