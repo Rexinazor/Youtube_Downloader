@@ -1,8 +1,7 @@
-# !/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Name     : inline-tube-mate [ Telegram ]
-# Repo     : https://github.com/m4mallu/inine-tube-mate
-# Author   : Renjith Mangal [ https://t.me/space4renjith ]
+# Name     : Youtube_Downloader 'Inline' [ Telegram ]
+# Repo     : https://github.com/Rexinazor/Youtube_Downloader
+# Author   : Rexinazor
+
 import asyncio
 import os
 from presets import Presets
