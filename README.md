@@ -32,7 +32,7 @@
 Create a `config.py` with the above variables (Refer sample_config.py)
 ```
 git clone https://github.com/Rexinazor/Youtube_Downloader
-cd inline-tube-mate
+cd Youtube_Downloader
 virtualenv -p python3 venv
 . ./venv/bin/activate
 pip3 install -r requirements.txt
