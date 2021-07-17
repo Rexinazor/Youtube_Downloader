@@ -32,17 +32,17 @@ JOIN <a href='https://t.me/BioHazard_Bots'>Updates</a> | Repo <a href='https://g
                     "clear it !</code> "
     NO_THUMB = "THere are no thumbnail in your Local Directory, Please upload an image and save it !"
     DEL_THUMB_CNF = "Thumbnail cleared successfully ✅"
-    LINK_ERROR = "𝐒𝐨𝐦𝐞 𝐞𝐫𝐫𝐨𝐫𝐬 𝐨𝐜𝐜𝐮𝐫𝐫𝐞𝐝 𝐰𝐡𝐢𝐥𝐞 𝐭𝐡𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬 !\n𝐏𝐥𝐞𝐚𝐬𝐞 𝐭𝐫𝐲 𝐚𝐠𝐚𝐢𝐧 𝐥𝐚𝐭𝐞𝐫.."
+    LINK_ERROR = "Some errors ouccerred while the process !\nPlease try again later..."
     #
     #
     #
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     FINISHED_PROGRESS_STR = "◼️"
     UN_FINISHED_PROGRESS_STR = "◻️"
-    CHECKING_LINK = "⏳ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭... ⏳"
-    DOWNLOAD_START = "𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠... 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 !"
-    UPLOAD_START = "𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦..."
-    NOT_DOWNLOADABLE = "𝐔𝐑𝐋 𝐍𝐨𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐚𝐛𝐥𝐞 !"
+    CHECKING_LINK = "⏳Please Wait... ⏳"
+    DOWNLOAD_START = "Downloading... Please Wait !"
+    UPLOAD_START = "Uploading to Telegram..."
+    NOT_DOWNLOADABLE = "URL not Downloadable !"
     CANCEL_PROCESS = "<b>Process Cancelled Successfully</b>  ✅"
     FORMAT_SELECTION = """
 <b>Title -</b> {}
@@ -54,9 +54,7 @@ JOIN <a href='https://t.me/BioHazard_Bots'>Updates</a> | Repo <a href='https://g
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "<b>Join :-</b> @RMProjects"
+    CUSTOM_CAPTION_UL_FILE = "<b>Join :-</b> @BioHazard_Bots"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
-    AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
-                           "latest version; see  https://yt-dl.org/update  on how to update. Be sure to call " \
-                           "youtube-dl with the --verbose flag and include its complete output."
+    AD_STRING_TO_REPLACE = "please report this issue on https://t.me/BHZbot_support ." 
