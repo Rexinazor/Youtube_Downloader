@@ -1,4 +1,4 @@
-# Inline-Tube-Mate (YouTube Downloader)
+# YouTube Downloader
 
 **An Inline Telegram bot that can download YouTube videos with permanent thumbnail support**
 
@@ -15,7 +15,7 @@
 <br>
 
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/m4mallu/inline-tube-mate">
+  <a href="https://heroku.com/deploy?template=https://github.com/Rexinazor/Youtube_Downloader">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -38,12 +38,6 @@ virtualenv -p python3 venv
 pip3 install -r requirements.txt
 python3 bot.py
 ```
-<br>
 
-### [Join Telegram Bot Update Channel](https://t.me/RMProjects)
 
-## Credits
 
-[Dan](https://github.com/delivrance) for his [Pyrogram Tg Framework](https://github.com/pyrogram/pyrogram)
-
-[Shrimadhav UK](https://github.com/SpEcHIDe) for his [AnyDLBot](https://github.com/SpEcHiDe/AnyDLBot)
