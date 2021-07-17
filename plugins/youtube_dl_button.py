@@ -1,10 +1,6 @@
-# !/usr/bin/env python3
-# -*- coding: utf-8 -*-
-# Name     : inline-tube-mate [ Telegram ]
-# Repo     : https://github.com/m4mallu/inine-tube-mate
-# Author   : Renjith Mangal [ https://t.me/space4renjith ]
-# Credits  : https://github.com/SpEcHiDe/AnyDLBot
-
+# Name     : Youtube_Downloader 'Inline' [ Telegram ]
+# Repo     : https://github.com/Rexinazor/Youtube_Downloader
+# Author   : Rexinazor
 
 import os
 import time
