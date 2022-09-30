@@ -111,7 +111,7 @@ async def echo(bot, m: Message):
             chat_id=m.chat.id,
             text=Presets.NO_VOID_FORMAT_FOUND.format(str(error_message)),
             reply_to_message_id=m.message_id,
-            parse_mode="html",
+            parse_mode="html.py",
             disable_web_page_preview=True
         )
         return False
@@ -255,5 +255,5 @@ async def echo(bot, m: Message):
                                                                     ),
                             reply_to_message_id=m.message_id,
                             reply_markup=reply_markup,
-                            parse_mode='html'
+                            parse_mode='html.py'
                             )
