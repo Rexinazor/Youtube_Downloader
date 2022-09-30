@@ -216,7 +216,7 @@ async def youtube_dl_call_back(bot, m):
                         document=download_directory,
                         thumb=thumb_nail,
                         caption=description,
-                        parse_mode="HTML",
+                        parse_mode="html.py",
                         reply_markup=reply_markup_join,
                         reply_to_message_id=m.message.reply_to_message.message_id,
                         progress=progress_for_pyrogram,
