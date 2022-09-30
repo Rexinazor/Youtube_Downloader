@@ -31,7 +31,7 @@ class Bot(Client):
     async def start(self):
         await super().start()
         me = await self.get_me()
-        self.set_parse_mode("html")
+        self.set_parse_mode("html.py")
         self.LOGGER(__name__).info(
             f"@{me.username}  started! "
         )
